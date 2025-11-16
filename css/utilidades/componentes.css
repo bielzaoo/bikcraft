@@ -20,6 +20,8 @@
     sans-serif;
 
   max-width: max-content;
+  border: none;
+  cursor: pointer;
 }
 
 .botao.secundario {
