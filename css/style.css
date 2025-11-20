@@ -9,6 +9,9 @@
 /* Footer */
 @import "./global/footer.css";
 
+/* Animcao */
+@import "./utilidades/animacao.css";
+
 /* utilidades */
 @import "./utilidades/componentes.css";
 @import "./utilidades/formulario.css";
